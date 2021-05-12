@@ -15,9 +15,6 @@ public class sellRequestDetails {
 	public void setCropId(long cropId) {
 		this.cropId = cropId;
 	}
-	public int getQuantity() {
-		return quantity;
-	}
 	public void setQuantity(int quantity) {
 		this.quantity = quantity;
 	}
