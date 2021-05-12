@@ -12,9 +12,6 @@ public class sellRequestDetails {
 	public void setFarmerId(long farmerId) {
 		this.farmerId = farmerId;
 	}
-	public long getCropId() {
-		return cropId;
-	}
 	public void setCropId(long cropId) {
 		this.cropId = cropId;
 	}
